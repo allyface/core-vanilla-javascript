@@ -1,5 +1,6 @@
 var PhoneNumber = function(newNumber){
 
+
 this.newNumber = newNumber
 this.trimmedNumber = null
 }
